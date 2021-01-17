@@ -14,7 +14,7 @@ Visit the deployed [budget tracker](https://budget-tracker-gt-pt.herokuapp.com/)
 
 ## Installation
 
-1. Head over to the [portfolio repository](https://github.com/roccomaniscalco/budget-tracker)
+1. Head over to the [budget tracker repository](https://github.com/roccomaniscalco/budget-tracker)
 2. Press the green _code_ button and select method of download
 3. Open the repo in your text editor of choice.
 
