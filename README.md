@@ -6,11 +6,11 @@ The Budget Tracker app allows users to manage their expenses by adding and subtr
 
 The focus of this project was to create a progressive web app by utilizing a service worker, web manifest, and cache API. The Budget Tracker is downloadable on mobile and desktop. Using the app offline will store pending transactions in a cache until the user is online. Once online, all pending transactions are stored in a [MongoDB](https://www.mongodb.com/) instance hosted by [Atlas](https://www.mongodb.com/cloud/atlas).
 
-<img src="screenshot.png" alt="Budget Tracker">
-
 ## Usage
 
 Visit the deployed [Budget Tracker](https://budget-tracker-gt-pt.herokuapp.com/).
+
+![Budget Tracker](screenshot.png)
 
 ## Installation
 
