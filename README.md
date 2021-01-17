@@ -2,21 +2,23 @@
 
 # Budget Tracker
 
-The budget tracker app allows users to manage their expenses by adding and subtracting funds to a virtual account. The site features a log and chart to display all transactions made.
+The Budget Tracker app allows users to manage their expenses by adding and subtracting funds to a virtual account. The site features a log and chart to display all transactions made.
 
-The focus of this project was to create a progressive web app by utilizing a service worker, web manifest, and cache API. The budget tracker is downloadable on mobile and desktop. Using the app offline will store pending transactions in a cache until the user is online. Once online, all pending transactions are stored in a [MongoDB](https://www.mongodb.com/) instance hosted by [Atlas](https://www.mongodb.com/cloud/atlas).
+The focus of this project was to create a progressive web app by utilizing a service worker, web manifest, and cache API. The Budget Tracker is downloadable on mobile and desktop. Using the app offline will store pending transactions in a cache until the user is online. Once online, all pending transactions are stored in a [MongoDB](https://www.mongodb.com/) instance hosted by [Atlas](https://www.mongodb.com/cloud/atlas).
 
-<img src="screenshot.png" alt="Site screenshot on mobile">
+<img src="screenshot.png" alt="Budget Tracker">
 
 ## Usage
 
-Visit the deployed [budget tracker](https://budget-tracker-gt-pt.herokuapp.com/).
+Visit the deployed [Budget Tracker](https://budget-tracker-gt-pt.herokuapp.com/).
 
 ## Installation
 
-1. Head over to the [budget tracker repository](https://github.com/roccomaniscalco/budget-tracker)
-2. Press the green _code_ button and select method of download
-3. Open the repo in your text editor of choice.
+1. Head over to the [project repository](https://github.com/roccomaniscalco/budget-tracker)
+2. Press the green 'code' button and select method of download
+3. Install and start [MongoDB](https://www.mongodb.com/) on your local machine
+4. Open the repo in your text editor of choice
+5. Run `npm install` then `npm start`
 
 ## Credits
 
